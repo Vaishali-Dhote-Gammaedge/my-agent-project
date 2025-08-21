@@ -1,5 +1,6 @@
 from agent.agent import Agent
 
+
 def run_chat():
     # agent = Agent(model_name="google/flan-t5-small")
     agent = Agent(model_name="microsoft/phi-2")
